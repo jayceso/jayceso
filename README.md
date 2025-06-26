@@ -11,7 +11,4 @@ I am an aspiring **Security Enthusiast** and **IoT Tinkerer** currently sharpeni
 - Arduino, Raspberry Pi, RFID tools (for IoT projects)  
 - Python, C/C++, and a lot of curiosity  
 
-### 🚀 Let’s Connect 
-Open to guidance, feedback, or casual chats about cybersecurity and IoT! Star ⭐ a repo if it sparks your interest, or reach out via [LinkedIn](https://linkedin.com/in/joshsoguilon).  
-
 *“The more I learn, the more I realize how much there is to learn.”* 
